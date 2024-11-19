@@ -1,63 +1,58 @@
+# 天工开源
 
-# React + TypeScript + Vite
+## 1、天工介绍
 
-## 一、reactltb项目信息
-—————————————————————————————————————————————————————————
-### 项目目录以及文件夹含义介绍
-public              公共资源
-    index.html        首页
-    mainfest.json     pwa应用的元数据
+>天工项目涵盖
+- Node后端（正在开发中...）
+- React 前端（React18+React-Router6...正在开发） 
+- Vue3 前端（采用Vue3+ Vue-Router5...正在开发中） 
+- Uniapp端 (打包为小程序和安卓端和IOS端...正在开发中)
+- React Native (打包为鸿蒙端--搁置中...)
+- 鸿蒙端 (计划中...)
+- 小程序端 (计划中...)
+- Electron端 (正在开发中...)
+- Springboot｜SSM框架搭建的java后台（努力学习中...）
+
+## 2、天工开源协议
+>天工开源项目采用MIT开源协议
+
+## 3、天工进度
+
+天工是我的一次尝试，目前正在不断完善，完善了几个版本以后达到心仪程度会不断放出来，慢慢进步！
+
+目前Node端、React端、Vue3端、Uniapp端已经在不断的做出来中...加油！
+
+## 4、关于我（作者林太白）
+
+个人博客主页：
+
+https://nexuslin.github.io/
 
 
-src                 项目源码
-    assets            资源（图片,字体图标）
-    componenets       公共组件
-    pages             页面
-    utils             工具
-    app.js            项目根组件
-    index.css         局样式
-    index.js          项目入口文件（渲染根组件、导入组件库等）
-    app.test.js       app组件测试文件
-    serviceWorker.js  用来实现PWA(可选)
-—————————————————————————————————————————————————————————
-### 项目环境
 
-node v20.11.0
-react 18.2
-react-dom  18.2.0
-—————————————————————————————————————————————————————————
+更加希望有新文章出来的时候大家给点个赞，一个努力的小菜鸡！
 
 
 
-## 二、项目搭建和配置
-——————————————————————————————————————————————————————————————
+以下是特别友情赞助的朋友，感谢他们！
 
-1. 项目搭建创建
-yarn create vite ltbreact --template react-js (推荐，去ts化)
-yarn create vite ltbreact --template react-ts  //node大于20.0.0 才可以使用
+....
 
-——————————————————————————————————————————————————————————————
+暂时无
 
-2. 项目配置路径别名
 
-配置resolve.alias 文件导入路径别名 (vite.config.js中) (vite.config.js中)
-src 默认src下src文件中
-components 默认src下components中
-————————————————————————
 
-配置路径别名路径提示 (修改tsconfig.json )
+资助以后可以留下个人博客链接哦！
 
-————————————————————————————————————————————————————————————————————————
+![img](https://www.lintaibai.cyou/assets/alipay.C3gcuBO5.png)
 
-3. 安装axios并封装请求
-yarn add axios
+https://www.lintaibai.cyou/assets/alipay.C3gcuBO5.png
 
 
 
 
-4. 集成 react-router 路由
-yarn add react-router-dom
 
-————————————————————————————————————————————————————————————————————————
- -->
+
+
+
 
